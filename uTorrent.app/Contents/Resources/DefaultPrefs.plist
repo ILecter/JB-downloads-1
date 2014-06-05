@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoPaneVisible</key>
+	<true/>
+	<key>LastSelectedPref</key>
+	<string>General</string>
+	<key>selectedInfoTab</key>
+	<integer>0</integer>
+	<key>AutoTrashTorrentFiles</key>
+	<false/>
+	<key>ConfirmTorrentRemoval</key>
+	<false/>
+	<key>ConfirmTorrentRemovalOnlyIfIncomplete</key>
+	<true/>
+	<key>DownloadRateLimitCopy</key>
+	<integer>0</integer>
+	<key>UploadRateLimitCopy</key>
+	<integer>0</integer>
+	<key>ShowDownloadSpeedInDock</key>
+	<true/>
+	<key>ShowUploadSpeedInDock</key>
+	<true/>
+	<key>TorrentsDataSourceSortColumn</key>
+	<integer>0</integer>
+	<key>TorrentsDataSourceSortDescending</key>
+	<false/>
+	<key>SidebarSelection</key>
+	<integer>1</integer>
+	<key>RemoteAccessEnabled</key>
+	<false/>
+	<key>promoBoxHidden</key>
+	<true/>
+</dict>
+</plist>
